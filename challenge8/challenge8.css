@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding:0;
+}.container{
+    display: flex;
+    background-color: white;
+}
+.inner-container{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    justify-content: flex-end;
+}
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}

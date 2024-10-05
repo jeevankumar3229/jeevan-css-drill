@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+    background-color: gray;
+    position: absolute;
+    height: 50vh;
+    width: 40vw;
+}
+.div2{
+    background-color: black;
+    position: absolute;
+    left:70vw;
+    height:20vh;
+    width:20vw;
+}
+.div3{
+    background-color: black;
+    position: absolute;
+    top: 70vh;
+    height:20vh;
+    width:20vw;
+}
+.div4{
+    background-color: gray;
+    position: absolute;
+    top: 40vh;
+    left:50vw;
+    width: 40vw;
+    height:50vh;
+}
